@@ -9,3 +9,4 @@ This is the day you have to Take this challenge and start your #90DaysOfDevOps w
  - What is Automation, Scaling, Infrastructure
  - Why DevOps is Important, etc
  
+Done day01 
